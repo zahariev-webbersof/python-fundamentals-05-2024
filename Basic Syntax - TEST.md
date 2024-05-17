@@ -167,7 +167,7 @@ for i in range(5, 0, -1):
 
 - A: 5   4   3   2   1
 - B: 54321
-- C: 4 3 2 1 
+- C: 5 4 3 2 1 
 - D: 5 4 3 2
 
 <details><summary><b>Answer</b></summary>
