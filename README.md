@@ -9,7 +9,7 @@ Online judge system - https://judge.softuni.org/ ⚖
 <br>
 <div align="center">
 	<img src="https://softuni.bg/Files/Publications/2019/06/pytonwizzard_15463182.png">
-</div>
+</div> 
 <br>
 <br>
  
