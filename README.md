@@ -11,7 +11,7 @@ Online judge system - https://judge.softuni.org/ ⚖
 	<img src="https://softuni.bg/Files/Publications/2019/06/pytonwizzard_15463182.png">
 </div> 
 <br>
-<br>
+<br> 
  
 ## Table of Contents:
 ➡ [Basic Syntax, Conditional Statements and Loops]()
