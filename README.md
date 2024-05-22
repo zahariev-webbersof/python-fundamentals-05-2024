@@ -13,7 +13,7 @@ Online judge system - **https://judge.softuni.org/** 📊
 ## Theory Тests:
 ➡ [**Basic Syntax - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/blob/main/Basic%20Syntax%20-%20TEST.md)
 
-➡ [**Data types and Variables**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/blob/main/Data%20types%20and%20Variables%20-%20TEST.md)
+➡ [**Data types and Variables - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/blob/main/Data%20types%20and%20Variables%20-%20TEST.md)
 
 ## Technologies used:
 [![My Skills](https://skillicons.dev/icons?i=python,git,html,css,linux,apple,windows&theme=light)](https://skillicons.dev)
