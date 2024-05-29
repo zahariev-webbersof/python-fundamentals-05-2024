@@ -13,7 +13,7 @@
 </p>
 </details>
 
-###### 2. What is the output of the following Python code that calculates the square root of 25 and performs trigonometric functions on an angle of 45 degrees?
+###### 2. What is the output of the following Python code?
 
 ```python
 my_list = [1, 2, 3, 4, 5]
