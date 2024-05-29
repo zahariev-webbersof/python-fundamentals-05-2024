@@ -1,5 +1,8 @@
 # Implementing Python List Methods 📝
 
+![1*mqwg-HnWZQcHQ3-k1GAi9g](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/assets/68993494/1cd3453c-4fc5-463d-81a0-81e7b8cfbdc5)
+
+
 Develop a console-based application that allows users to perform various operations on a list. The application will present a menu of options, each corresponding to a different list method. 
 Users can choose an option by entering a number, and the application will execute the corresponding list method.
 
@@ -47,6 +50,9 @@ Allow the user to select an option by entering the associated number.
 ## ✅ Additional Information:
 
 - User Guidance: Provide clear instructions to the user on how to interact with the application (e.g., input formats, expected actions).
+
+## Tech stack:
+[![My Skills](https://skillicons.dev/icons?i=python,windows,apple,linux&theme=light)](https://skillicons.dev)
 
 ## Task Skeleton:
 ```python
