@@ -18,6 +18,8 @@ Online judge system - **https://judge.softuni.org/** 📊
 
 ➡ [**Data types and Variables - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/blob/main/Data%20types%20and%20Variables%20-%20TEST.md)
 
+➡ [**List basics - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/blob/main/List%20basic%20-%20TEST.md)
+
 ## Technology Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,git,html,css,linux,apple,windows&theme=light)](https://skillicons.dev)
 
