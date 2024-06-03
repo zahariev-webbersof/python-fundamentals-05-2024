@@ -23,7 +23,7 @@ Online judge system - **https://judge.softuni.org/** 📊
 ## Technology Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,git,html,css,linux,apple,windows&theme=light)](https://skillicons.dev)
 
-## Practical Tasks:
+## Practical Tasks: 
 ➡ [**Pattern Drawing**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/blob/main/Pattern%20Drawing.md)
 
 ➡ [**Student Management System**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/blob/main/Student%20Management%20System.md)
