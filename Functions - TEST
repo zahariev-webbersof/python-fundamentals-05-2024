@@ -1,0 +1,236 @@
+###### 1. What is the purpose of the return statement in a Python function?
+
+- A: To halt the execution of the function.
+- B: To print a value to the console.
+- C: To return a value to the caller. 
+- D: To define a variable within the function.
+
+<details><summary><b>Answer</b></summary> 
+<p>
+
+#### Correct Answer ->  C: To return a value to the caller.
+
+</p>
+</details>
+
+###### 2. 
+
+```python
+def multiply(a, b=2):
+    return a * b
+
+result = multiply(3)
+print(result)
+
+```
+
+- A: 6
+- B: 2
+- C: 3
+- D: 9
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Correct Answer -> A: 6
+
+</p>
+</details>
+
+###### 3. Which of the following statements about Python functions is true?
+
+- A: A function can only have one parameter.
+- B: A function can have multiple return statements.
+- C: A function cannot call other functions.
+- D: A function can be recursive.
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Correct Answer -> D: A function can be recursive.
+
+</p>
+</details>
+
+###### 4. What is the purpose of the pass statement in Python functions?
+
+- A: To indicate the end of the function.
+- B: To skip the execution of the function.
+- C: To define a function that accepts any number of arguments.
+- D: To indicate that the function does nothing and is a placeholder. 
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Correct Answer -> D: To indicate that the function does nothing and is a placeholder. 
+
+</p>
+</details>
+
+###### 5. 
+
+```python
+def my_function(x):
+    x += 10
+
+value = 5
+my_function(value)
+print(value)
+
+```
+
+- A: 5
+- B: 15
+- C: 10
+- D: 50
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Correct Answer -> A: 5
+
+</p>
+</details>
+
+###### 6. What is the scope of a variable defined inside a Python function?
+
+- A: Global to the entire Python script
+- B: Local to the module where the function is defined
+- C: Local to the function
+- D: Local to the class where the function is defined
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Correct Answer -> C: Local to the function
+
+</p>
+</details>
+
+###### 7. What is the difference between positional arguments and keyword arguments in Python functions?
+
+- A: Positional arguments are required, while keyword arguments are optional.
+- B: Positional arguments are passed by name, while keyword arguments are passed by position.
+- C: Positional arguments are specified using their position, while keyword arguments are specified using their name.
+- D: Positional arguments are only used in function definitions, while keyword arguments are used in function calls.
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Correct Answer -> C: Positional arguments are specified using their position, while keyword arguments are specified using their name.
+
+</p>
+</details>
+
+###### 8. What happens if a Python function does not have a return statement?
+
+- A: The function continues executing indefinitely.
+- B: The function returns an empty string.
+- C: The function raises an error.
+- D: The function returns None.
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Correct Answer ->  D:  The function returns None.
+
+</p>
+</details>
+
+###### 9. What does the * operator do when used in a function call in Python?
+
+- A: Splits a string into a list of characters.
+- B: Concatenates two strings.
+- C: Unpacks a sequence into separate arguments.
+- D: Raises a number to the power of another number.
+
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Correct Answer -> C: Unpacks a sequence into separate arguments.
+
+</p>
+</details>
+
+###### 10. 
+
+```python
+def my_function(x):
+    return x + 5, x * 2
+
+result1, result2 = my_function(3)
+print(result1, result2)
+
+```
+
+- A: 8 6
+- B: 6
+- C: 14
+- D: Error
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Correct Answer -> A: 8 6
+
+</p>
+</details>
+
+
+###### 11. BONUS QUESTION -> 
+
+```python
+def outer_function():
+    x = 10
+
+    def inner_function():
+        nonlocal x
+        x += 5
+        return x
+
+    return inner_function()
+
+print(outer_function())
+
+```
+
+- A: 10, 5
+- B: 5
+- C: 10
+- D: 15
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Correct Answer -> You tell me :)) 
+</p>
+</details>
+
+
+###### 12. BONUS QUESTION -> 
+
+```python
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+
+result = factorial(5)
+print(result)
+
+```
+
+- A: 5
+- B: 10
+- C: 120
+- D: Error
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Correct Answer -> You tell me :)) 
+
+</p>
+</details>
