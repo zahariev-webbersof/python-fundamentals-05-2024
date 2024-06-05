@@ -20,7 +20,7 @@ Online judge system - **https://judge.softuni.org/** 📊
 
 ➡ [**List basics - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/blob/main/List%20basic%20-%20TEST.md)
 
-➡ [**Functions - TEST**]()
+➡ [**Functions - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/blob/main/Functions%20-%20TEST)
 
 ## Technology Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,git,html,css,linux,apple,windows&theme=light)](https://skillicons.dev)
