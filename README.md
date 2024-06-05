@@ -32,7 +32,7 @@ Online judge system - **https://judge.softuni.org/** 📊
 
 ➡ [**Python List Methods System**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/blob/main/Python%20List%20Methods%20System.md)
 
-➡ [**Example**]()
+➡ [**Task Manager System**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/blob/main/Task%20Manager.md)
 
 ## Additional Resources:
 
