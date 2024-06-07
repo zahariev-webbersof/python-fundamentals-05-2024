@@ -11,7 +11,7 @@ Online judge system - **https://judge.softuni.org/** 📊
 ➡ [**Basic Syntax, Conditional Statements and Loops**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/tree/main/basic_syntax) 
 
 ➡ [**Data Types and Variables**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/tree/main/data_types_and_variables)
-
+ 
 
 ## Theory Тests:
 ➡ [**Basic Syntax - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/blob/main/Basic%20Syntax%20-%20TEST.md)
