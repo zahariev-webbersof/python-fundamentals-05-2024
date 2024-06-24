@@ -126,7 +126,7 @@ my_list[1:4] = [10, 11, 12, 13]
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Correct Answer ->  D: Raises a ValueError
+#### Correct Answer ->  A: 2
 
 </p>
 </details>
