@@ -13,7 +13,7 @@ Online judge system - **https://judge.softuni.org/** 📊
 ➡ [**Data Types and Variables**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/tree/main/data_types_and_variables)
  
 ➡ [**List basics**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/tree/main/list_basics)
-
+ 
 ➡ [**Functions**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/tree/main/functions) 
 
 ➡ [**List Advanced**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/tree/main/list_advance)
