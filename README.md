@@ -19,7 +19,7 @@ Online judge system - **https://judge.softuni.org/** 📊
 ➡ [**List Advanced**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/tree/main/list_advance)
 
 ➡ [**List Advanced Exercise**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/tree/main/list_advance_exercise)
-
+ 
 ➡ [**Exam Preparation**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/tree/main/exam_preparation)
  
  
