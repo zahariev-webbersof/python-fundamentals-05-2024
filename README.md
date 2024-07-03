@@ -46,7 +46,7 @@ Online judge system - **https://judge.softuni.org/** 📊
 
 ➡ [**Task Manager System**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/blob/main/Task%20Manager.md)
 
-➡ [**Test Judge System**]()
+➡ [**Judge System**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/blob/main/Test%20Judge%20System.md)
 
 ## Additional Resources:
 
