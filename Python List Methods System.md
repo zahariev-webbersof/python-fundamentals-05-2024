@@ -20,7 +20,7 @@ Allow the user to select an option by entering the associated number.
 3. List Methods to Implement:
 
 - append()
-- extend()
+- extend() 
 - insert()
 - remove()
 - pop()
