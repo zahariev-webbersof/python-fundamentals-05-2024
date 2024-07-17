@@ -17,7 +17,7 @@ Develop a Python script that generates a right-angled triangle pattern. The scri
 ```
 
 ### Pattern 2: Square with Hollow Center
-
+ 
 Craft a Python program that produces a square pattern with a hollow center. The program should take the size of the square as input from the user. Here's an example output for a user input of 5:
 
 ```
