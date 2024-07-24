@@ -28,7 +28,7 @@ Online judge system - **https://judge.softuni.org/** 📊
 
 ➡ [**Regex**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/tree/main/regex)
 
-➡ [**Exam Preparation part 2**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/tree/main/exam_preparation_2)
+➡ [**Final Exam Preparation**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/tree/main/exam_preparation_2)
  
 ## Theory Тests:
 ➡ [**Basic Syntax - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/blob/main/Basic%20Syntax%20-%20TEST.md)
