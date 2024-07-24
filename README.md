@@ -25,7 +25,8 @@ Online judge system - **https://judge.softuni.org/** 📊
 ➡ [**Objects and Classes**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/tree/main/class_and_objects)
 
 ➡ [**Dictionaries**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/tree/main/dictionaries)
- 
+
+➡ [**Regex**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/tree/main/dictionaries)
  
 ## Theory Тests:
 ➡ [**Basic Syntax - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/blob/main/Basic%20Syntax%20-%20TEST.md)
