@@ -1,0 +1,84 @@
+<html lang="en">
+   <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="stylesheet" type="text/css" href="/static/phonebook/style.css" />
+      <title>Phonebook</title>
+   </head>
+   <body>
+
+<!--  navigation bar  -->
+      <nav class="navbar navbar-default">
+         <div class="container-fluid">
+            <div class="navbar-header">
+               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                  data-target="#bs-example-navbar-collapse-1">
+               <span class="sr-only">Toggle navigation</span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+               </button>
+               <a class="navbar-brand" href="/">Phonebook</a>
+            </div>
+         </div>
+      </nav>
+<!--  end navigation bar  -->
+
+<!--  visualizing contacts table  -->
+      <div class="container">
+         <legend>All Contacts</legend>
+         <table class="table">
+            <thead>
+               <tr>
+                  <th scope="col">Name</th>
+                  <th scope="col">Number</th>
+               </tr>
+            </thead>
+            <tbody>
+               <tr>
+               <tr>{% for contact in contacts %}
+               <tr>
+                  <td> {{ contact.name }} </td>
+                  <td>{{ contact.number }}</td>
+                  {% endfor %}
+               </tr>
+            </tbody>
+         </table>
+<!--  end visualizing contacts table  -->
+
+<!--  adding contact form  -->
+         <form class="form-horizontal" action="{% url 'new-contact' %}" method="POST">
+            {% csrf_token %}
+            <fieldset>
+               <legend>New Contact</legend>
+               <div class="form-group">
+                  <label for="name" class="col-lg-2 control-label">Name</label>
+                  <div class="col-lg-10">
+                     <input type="text" autofocus="autofocus" name="name" title="Name" class="form-control"
+                        id="name"/>
+                  </div>
+               </div>
+               <div class="form-group">
+                  <label for="number" class="col-lg-2 control-label">Number</label>
+                  <div class="col-lg-10">
+                     <input type="number" autofocus="autofocus" name="number" title="Number" class="form-control"
+                        id="number"/>
+                  </div>
+               </div>
+               <div class="form-group">
+                  <div class="col-lg-10 col-lg-offset-2">
+                     <button type="submit" class="btn btn-primary">Add</button>
+                  </div>
+               </div>
+            </fieldset>
+         </form>
+<!--  end adding contact form  -->
+
+<!--  footer  -->
+         <hr/>
+         <footer>
+            <p>&copy; Software University</p>
+         </footer>
+      </div>
+   </body>
+</html>
