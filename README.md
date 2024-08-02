@@ -15,7 +15,7 @@ Online judge system - **https://judge.softuni.org/** 📊
 ➡ [**List basics**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/tree/main/list_basics)
  
 ➡ [**Functions**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/tree/main/functions)  
- 
+  
 ➡ [**List Advanced**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/tree/main/list_advance)  
 
 ➡ [**List Advanced Exercise**](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/tree/main/list_advance_exercise) 
